@@ -1,2 +1,2 @@
-# House-Proce-Prediction
+# House-Price-Prediction
 Kaggle self project
